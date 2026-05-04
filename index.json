@@ -1,0 +1,24 @@
+{
+  "indexVersion": 1,
+  "generatedAt": "2026-05-04T08:05:26.904Z",
+  "entries": {
+    "curated:aries-mod": {
+      "version": "3.1.410",
+      "scriptUrl": "https://raw.githubusercontent.com/Ariedam64/MG-AriesMod/cbcf198221e86bf001fc86147cd5a6368c57f7dc/dist/quinoa-ws.min.user.js",
+      "sourceCommitOrTag": "cbcf198221e86bf001fc86147cd5a6368c57f7dc",
+      "scriptHash": "fnv1a-e5d752b9"
+    },
+    "curated:mgtools": {
+      "version": "2.1.1",
+      "scriptUrl": "https://raw.githubusercontent.com/Myke247/MGTools/eeacefebe47bdf1629accf0723e02424a977c4ab/MGTools.user.js",
+      "sourceCommitOrTag": "eeacefebe47bdf1629accf0723e02424a977c4ab",
+      "scriptHash": "fnv1a-2db7de1f"
+    },
+    "curated:qpm-gr": {
+      "version": "3.1.90",
+      "scriptUrl": "https://raw.githubusercontent.com/ryandt2305-cpu/QPM-GR/a8a428bd0fdbd43a2d77aaaef819e7e8ce974b84/dist/QPM.user.js",
+      "sourceCommitOrTag": "a8a428bd0fdbd43a2d77aaaef819e7e8ce974b84",
+      "scriptHash": "fnv1a-413ea687"
+    }
+  }
+}

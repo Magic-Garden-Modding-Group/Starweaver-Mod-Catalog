@@ -1,0 +1,20 @@
+[
+  {
+    "id": "curated:aries-mod",
+    "repo": "Ariedam64/MG-AriesMod",
+    "scriptPath": "dist/quinoa-ws.min.user.js",
+    "strategy": "latest-release"
+  },
+  {
+    "id": "curated:mgtools",
+    "repo": "Myke247/MGTools",
+    "scriptPath": "MGTools.user.js",
+    "strategy": "branch:main"
+  },
+  {
+    "id": "curated:qpm-gr",
+    "repo": "ryandt2305-cpu/QPM-GR",
+    "scriptPath": "dist/QPM.user.js",
+    "strategy": "branch:master"
+  }
+]
