@@ -1,12 +1,12 @@
 {
   "indexVersion": 1,
-  "generatedAt": "2026-07-01T09:38:20.009Z",
+  "generatedAt": "2026-07-03T02:32:55.843Z",
   "entries": {
     "curated:aries-mod": {
-      "version": "3.1.410",
-      "scriptUrl": "https://raw.githubusercontent.com/Ariedam64/MG-AriesMod/cbcf198221e86bf001fc86147cd5a6368c57f7dc/dist/quinoa-ws.min.user.js",
-      "sourceCommitOrTag": "cbcf198221e86bf001fc86147cd5a6368c57f7dc",
-      "scriptHash": "fnv1a-e5d752b9"
+      "version": "3.2.161",
+      "scriptUrl": "https://raw.githubusercontent.com/Ariedam64/MG-AriesMod/793240da2f9f3d1afe7c61f50db6b48fe6dc4f6e/dist/quinoa-ws.min.user.js",
+      "sourceCommitOrTag": "793240da2f9f3d1afe7c61f50db6b48fe6dc4f6e",
+      "scriptHash": "fnv1a-b3dcaaa6"
     },
     "curated:mgtools": {
       "version": "2.1.1",
