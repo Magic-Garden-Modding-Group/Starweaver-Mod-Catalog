@@ -1,6 +1,6 @@
 {
   "indexVersion": 1,
-  "generatedAt": "2026-07-03T08:55:52.652Z",
+  "generatedAt": "2026-07-07T09:33:36.955Z",
   "entries": {
     "curated:aries-mod": {
       "version": "3.2.161",
@@ -15,10 +15,10 @@
       "scriptHash": "fnv1a-2db7de1f"
     },
     "curated:qpm-gr": {
-      "version": "3.3.7",
-      "scriptUrl": "https://raw.githubusercontent.com/ryandt2305-cpu/QPM-GR/a1c4445d54fb09a981933c749e3a4288abfabfc2/dist/QPM.user.js",
-      "sourceCommitOrTag": "a1c4445d54fb09a981933c749e3a4288abfabfc2",
-      "scriptHash": "fnv1a-f3c247e5"
+      "version": "3.3.9",
+      "scriptUrl": "https://raw.githubusercontent.com/ryandt2305-cpu/QPM-GR/0afff8237d3826a8637bde75c416a4fa5273194f/dist/QPM.user.js",
+      "sourceCommitOrTag": "0afff8237d3826a8637bde75c416a4fa5273194f",
+      "scriptHash": "fnv1a-300d7ee0"
     }
   }
 }
